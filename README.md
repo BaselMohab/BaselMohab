@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi there! I'm Basel, a self-taught Frontend Developer with a background in Business Development and currently I'm a trainee at ITI. I embarked on my coding journey in 2023 and have been passionate about it ever since.<br><br>I enjoy the process of creating and designing things from scratch. Whether it's crafting interactive web experiences, or optimizing performance, I love the challenge of bringing ideas to life through code.<br><br>I'm particularly interested in diving deeper into algorithms, data structures, object-oriented programming and JavaScript. I believe that a solid understanding of these fundamental concepts is crucial for building efficient and scalable applications. I'm always eager to learn and explore new techniques and best practices in the world of software development.<br><br>Additionally, I'm continuously working on enhancing my skills and learning and applying new technology stack to my self-initiated projects.
 
 
